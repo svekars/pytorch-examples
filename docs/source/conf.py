@@ -58,7 +58,7 @@ html_context = {
     "display_github": True, # Integrate GitHub
     "github_repo": "pytorch/examples", # Repo name
     "github_version": "main", # Version
-    "conf_py_path": "/docs/source", # Path in the checkout to the docs root
+    "conf_py_path": "docs", # Path in the checkout to the docs root
 }
 
 # -- Options for HTML output -------------------------------------------------
@@ -74,6 +74,6 @@ html_theme_path = [pytorch_sphinx_theme.get_html_theme_path()]
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 
-html_css_files = ["_static"]
+html_static_path = ["_static"]
 panels_add_fontawesome_latex = True
 
