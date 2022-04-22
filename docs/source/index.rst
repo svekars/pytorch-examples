@@ -33,7 +33,7 @@ experiment with PyTorch.
 
     This example demonstrates how you can train some of the most popular
     model architectures, including `ResNet <https://en.wikipedia.org/wiki/Residual_neural_network>`__, 
-    `AlexNet <https://en.wikipedia.org/wiki/AlexNet>`__, and `VGG <https://arxiv.org/pdf/1409.1556.pdf>`__
+    `AlexNet <https://en.wikipedia.org/wiki/AlexNet>`__, and `VGG <https://arxiv.org/pdf/1409.1556.pdf>`__,
     on the `ImageNet <https://image-net.org/>`__ dataset.
 
     `GO TO EXAMPLE <https://github.com/pytorch/examples/blob/main/imagenet>`__ :opticon:`link-external`
